@@ -1,4 +1,4 @@
-#App gems & enhancements I use on MacOS.
+# App gems & enhancements I use on MacOS.
                 
 ### Developer tools
 + [**Fig**](https://fig.io/ "Fig") *(Fig adds IDE-style autocomplete to your existing terminal)*
@@ -7,7 +7,7 @@
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
 + 
 
-###Productivity
+### Productivity
 + Item C
     * Item C 1
     * Item C 2
@@ -15,4 +15,4 @@
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
-###End
+### End
