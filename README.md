@@ -17,6 +17,7 @@
 + [**Silicon**](https://github.com/DigiDNA/Silicon "**Silicon**") *(Identify Intel-Only Apps on your Mac with ease)*
 + [**Pandan**](https://apps.apple.com/app/id1569600264 "**Pandan**") *(Time awareness in your menubar)*
 + [**Hidden Bar**](https://apps.apple.com/us/app/hidden-bar/id1452453066 "**Hidden Bar**") *(Hide menubar items)*
++ [**Manila**](https://github.com/neilsardesai/Manila "**Manila**") *(Manila is a Finder extension that lets you change the colors of your folders)*
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
