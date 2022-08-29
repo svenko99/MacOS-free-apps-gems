@@ -10,6 +10,7 @@
 ### Productivity
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services.)*
++ [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. I highly recommend it)*
 
 ### Utilities
 + [**AppCleaner**](https://freemacsoft.net/appcleaner/ "AppCleaner") *(AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps)*
@@ -18,6 +19,8 @@
 + [**Pandan**](https://apps.apple.com/app/id1569600264 "**Pandan**") *(Time awareness in your menubar)*
 + [**Hidden Bar**](https://apps.apple.com/us/app/hidden-bar/id1452453066 "**Hidden Bar**") *(Hide menubar items)*
 + [**Manila**](https://github.com/neilsardesai/Manila "**Manila**") *(Manila is a Finder extension that lets you change the colors of your folders)*
++ [**IINA**](https://iina.io/ "**IINA**") *(The modern media player for macOS.)*
++ [**MacUpdater**](https://www.corecode.io/macupdater/index.html "**MacUpdater**") *(App automatically tracks the latest updates of all applications installed on your MacOS)*
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
