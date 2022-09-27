@@ -21,6 +21,7 @@
 + [**Manila**](https://github.com/neilsardesai/Manila "**Manila**") *(Manila is a Finder extension that lets you change the colors of your folders)*
 + [**IINA**](https://iina.io/ "**IINA**") *(The modern media player for macOS.)*
 + [**MacUpdater**](https://www.corecode.io/macupdater/index.html "**MacUpdater**") *(App automatically tracks the latest updates of all applications installed on your MacOS)*
++ [**itsycal**](https://www.mowglii.com/itsycal/ "**itsycal**") *(Itsycal is a tiny menu bar calendar. Very cool app)*
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
