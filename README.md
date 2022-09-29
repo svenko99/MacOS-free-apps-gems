@@ -1,4 +1,4 @@
-# Free app gems & enhancements I use on MacOS.
+# 💻 Free app gems & enhancements I use on MacOS.
                 
 ### Developer tools
 + [**Fig**](https://fig.io/ "Fig") *(Fig adds IDE-style autocomplete to your existing terminal)*
