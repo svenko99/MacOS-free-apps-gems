@@ -3,14 +3,14 @@
 ### Developer tools
 + [**Fig**](https://fig.io/ "Fig") *(Fig adds IDE-style autocomplete to your existing terminal)*
 + [ **iTerm2**](https://iterm2.com/ " iTerm2") *(iTerm2 is a replacement for Terminal)*
-+ [**Fish**](https://fishshell.com/ "Fish") *(fish is a smart and user-friendly command line)*
++ [**Fish**](https://fishshell.com/ "Fish") *(Fish is a smart and user-friendly command line)*
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
-
++ [**Oh My Zsh**](https://ohmyz.sh/ "Oh My Zsh") *(Oh My Zsh is a delightful, open source framework for managing your Zsh configuration)*
 
 ### Productivity
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
-+ [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services.)*
-+ [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. I highly recommend it)*
++ [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
++ [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
 
 ### Utilities
 + [**AppCleaner**](https://freemacsoft.net/appcleaner/ "AppCleaner") *(AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps)*
@@ -19,9 +19,10 @@
 + [**Pandan**](https://apps.apple.com/app/id1569600264 "**Pandan**") *(Time awareness in your menubar)*
 + [**Hidden Bar**](https://apps.apple.com/us/app/hidden-bar/id1452453066 "**Hidden Bar**") *(Hide menubar items)*
 + [**Manila**](https://github.com/neilsardesai/Manila "**Manila**") *(Manila is a Finder extension that lets you change the colors of your folders)*
-+ [**IINA**](https://iina.io/ "**IINA**") *(The modern media player for macOS.)*
++ [**IINA**](https://iina.io/ "**IINA**") *(The modern media player for macOS)*
 + [**MacUpdater**](https://www.corecode.io/macupdater/index.html "**MacUpdater**") *(App automatically tracks the latest updates of all applications installed on your MacOS)*
 + [**itsycal**](https://www.mowglii.com/itsycal/ "**itsycal**") *(Itsycal is a tiny menu bar calendar. Very cool app)*
++ [**FreeScaler**](https://apps.apple.com/us/app/freescaler/id6443796196 "**FreeScaler**") *(Upscale your low-res images)*
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
