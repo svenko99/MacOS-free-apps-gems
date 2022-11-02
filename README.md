@@ -29,4 +29,6 @@
 + [**nativefier**](https://github.com/nativefier/nativefier "**nativefier**") *(Nativefier is a command-line tool to easily create a “desktop app” for any web site with minimal fuss)*
 + [**ImageMagick**](https://imagemagick.org/script/index.php "**ImageMagick**") *(Use ImageMagick® to create, edit, compose, or convert digital images from terminal)*
 
-## End
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=svenko99/MacOS-free-apps-gems&type=Date)](https://star-history.com/#svenko99/MacOS-free-apps-gems&Date)
