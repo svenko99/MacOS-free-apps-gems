@@ -6,11 +6,13 @@
 + [**Fish**](https://fishshell.com/ "Fish") *(Fish is a smart and user-friendly command line)*
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
 + [**Oh My Zsh**](https://ohmyz.sh/ "Oh My Zsh") *(Oh My Zsh is a delightful, open source framework for managing your Zsh configuration)*
++ [**Warp**](https://www.warp.dev/) *(The terminal for the 21st century. **I use this terminal**)*
 
 ### Productivity
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
 + [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
++ [**How long left**](https://apps.apple.com/us/app/how-long-left/id1388832966?mt=12) *(Count down calendar events in menu bar. I use this for school to see when my class period ends)*
 
 ### Utilities
 + [**AppCleaner**](https://freemacsoft.net/appcleaner/ "AppCleaner") *(AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps)*
