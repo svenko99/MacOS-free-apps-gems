@@ -28,6 +28,9 @@
 + [**itsycal**](https://www.mowglii.com/itsycal/ "**itsycal**") *(Itsycal is a tiny menu bar calendar. Very cool app)*
 + [**FreeScaler**](https://apps.apple.com/us/app/freescaler/id6443796196 "**FreeScaler**") *(Upscale your low-res images)*
 
+### Fun
++ [**JazzUp**](https://www.irradiatedsoftware.com/labs/) *(JazzUp is a simple menu bar app that plays sound fx as you type. (Typewriter, Cherry MX™...)*
+
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
 + [**nativefier**](https://github.com/nativefier/nativefier "**nativefier**") *(Nativefier is a command-line tool to easily create a “desktop app” for any web site with minimal fuss)*
