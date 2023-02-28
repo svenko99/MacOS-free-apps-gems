@@ -29,7 +29,7 @@
 + [**FreeScaler**](https://apps.apple.com/us/app/freescaler/id6443796196 "**FreeScaler**") *(Upscale your low-res images)*
 
 ### Fun
-+ [**JazzUp**](https://www.irradiatedsoftware.com/labs/) *(JazzUp is a simple menu bar app that plays sound fx as you type. (Typewriter, Cherry MX™...)*
++ [**JazzUp**](https://www.irradiatedsoftware.com/labs/) *(JazzUp is a simple menu bar app that plays sound fx as you type. Sounds include: Typewriter, Cherry MX™...)*
 
 ### Terminal Scripts
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
