@@ -13,7 +13,7 @@
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
 + [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
 + [**How long left**](https://apps.apple.com/us/app/how-long-left/id1388832966?mt=12) *(Count down calendar events in menu bar. I use this for school to see when my class period ends)*
-+ [**MacGPT (Menu bar)**](https://goodsnooze.gumroad.com/l/menugpt) *(Chat with OpenAI's ChatGPT in mac menu bar like a pro)*
++ [**ChatGPT (Menu bar)**](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) *(Chat with OpenAI's ChatGPT in mac menu bar like a pro)*
 + [**ChatGPT (App)**](https://github.com/lencx/ChatGPT) *(ChatGPT desktop application)*
 
 ### Utilities
