@@ -7,13 +7,14 @@
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
 + [**Oh My Zsh**](https://ohmyz.sh/ "Oh My Zsh") *(Oh My Zsh is a delightful, open source framework for managing your Zsh configuration)*
 + [**Warp**](https://www.warp.dev/) *(The terminal for the 21st century. **I use this terminal**)*
++ [**Proxyman**](https://proxyman.io/) *(With Proxyman app, you can capture, inspect, and manipulate HTTP(s) traffic with ease)*
 
 ### Productivity
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
 + [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
 + [**How long left**](https://apps.apple.com/us/app/how-long-left/id1388832966?mt=12) *(Count down calendar events in menu bar. I use this for school to see when my class period ends)*
-+ [**ChatGPT (Menu bar)**](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) *(Chat with OpenAI's ChatGPT in mac menu bar like a pro)*
++ [**MacGPT (Menu bar)**](https://www.macgpt.com/) *(Chat with OpenAI's ChatGPT in mac menu bar like a pro)*
 + [**ChatGPT (App)**](https://github.com/lencx/ChatGPT) *(ChatGPT desktop application)*
 
 ### Utilities
@@ -27,6 +28,8 @@
 + [**MacUpdater**](https://www.corecode.io/macupdater/index.html "**MacUpdater**") *(App automatically tracks the latest updates of all applications installed on your MacOS)*
 + [**itsycal**](https://www.mowglii.com/itsycal/ "**itsycal**") *(Itsycal is a tiny menu bar calendar. Very cool app)*
 + [**FreeScaler**](https://apps.apple.com/us/app/freescaler/id6443796196 "**FreeScaler**") *(Upscale your low-res images)*
++ [**Transmission**](https://transmissionbt.com/) *(A Fast, Easy and Free Bittorrent Client )*
++ [**SquirrelDisk**](https://www.squirreldisk.com/) *(This app is used to easily detect huge files.)*
 
 ### Fun
 + [**JazzUp**](https://www.irradiatedsoftware.com/labs/) *(JazzUp is a simple menu bar app that plays sound fx as you type. Sounds include: Typewriter, Cherry MX™...)*
