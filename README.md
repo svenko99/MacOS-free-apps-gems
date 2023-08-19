@@ -38,6 +38,8 @@
 + **[scdl](https://github.com/flyingrub/scdl "scdl")** *(This script is able to download music from SoundCloud from your terminal)*
 + [**nativefier**](https://github.com/nativefier/nativefier "**nativefier**") *(Nativefier is a command-line tool to easily create a “desktop app” for any web site with minimal fuss)*
 + [**ImageMagick**](https://imagemagick.org/script/index.php "**ImageMagick**") *(Use ImageMagick® to create, edit, compose, or convert digital images from terminal)*
++ [**tldr**](https://github.com/tldr-pages/tldr) *(tldr is a collection of simplified help pages for command-line tools, designed to complement traditional man pages)*
++ [**macos-trash**](https://github.com/sindresorhus/macos-trash) *(Move files and folders to the trash from terminal)* 
 
 ### Star History
 
