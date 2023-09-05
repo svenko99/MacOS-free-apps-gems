@@ -6,7 +6,7 @@
 + [**Fish**](https://fishshell.com/ "Fish") *(Fish is a smart and user-friendly command line)*
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
 + [**Oh My Zsh**](https://ohmyz.sh/ "Oh My Zsh") *(Oh My Zsh is a delightful, open source framework for managing your Zsh configuration)*
-+ [**Warp**](https://www.warp.dev/) *(The terminal for the 21st century. **I use this terminal**)*
++ [**Warp**](https://www.warp.dev/) *(The terminal for the 21st century.)*
 + [**Proxyman**](https://proxyman.io/) *(With Proxyman app, you can capture, inspect, and manipulate HTTP(s) traffic with ease)*
 
 ### Productivity
