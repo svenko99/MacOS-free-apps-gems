@@ -1,5 +1,5 @@
 # 💻 Free app gems & enhancements I use on MacOS.
-                
+
 ### Developer tools
 + [**Fig**](https://fig.io/ "Fig") *(Fig adds IDE-style autocomplete to your existing terminal)*
 + [ **iTerm2**](https://iterm2.com/ " iTerm2") *(iTerm2 is a replacement for Terminal)*
@@ -10,6 +10,7 @@
 + [**Proxyman**](https://proxyman.io/) *(With Proxyman app, you can capture, inspect, and manipulate HTTP(s) traffic with ease)*
 
 ### Productivity
++ [**Cuber**](https://svenko.me/pages/cuber.html) *(Cuber is a mini browser for the menu bar)*
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
 + [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
