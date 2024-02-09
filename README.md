@@ -19,7 +19,7 @@
 + [**ChatGPT (App)**](https://github.com/lencx/ChatGPT) *(ChatGPT desktop application)*
 
 ### Utilities
-+ [**AppCleaner**](https://freemacsoft.net/appcleaner/ "AppCleaner") *(AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps)*
++ [**Pearcleaner**](https://github.com/alienator88/Pearcleaner) *(An open-source mac app cleaner)*
 + [**Tiles**](https://freemacsoft.net/tiles/ "Tiles") *(Tiles is a window manager which allows you to easily reorganize windows by dragging them to the edges of the screen)*
 + [**Silicon**](https://github.com/DigiDNA/Silicon "**Silicon**") *(Identify Intel-Only Apps on your Mac with ease)*
 + [**Pandan**](https://apps.apple.com/app/id1569600264 "**Pandan**") *(Time awareness in your menubar)*
@@ -30,7 +30,8 @@
 + [**itsycal**](https://www.mowglii.com/itsycal/ "**itsycal**") *(Itsycal is a tiny menu bar calendar. Very cool app)*
 + [**FreeScaler**](https://apps.apple.com/us/app/freescaler/id6443796196 "**FreeScaler**") *(Upscale your low-res images)*
 + [**Transmission**](https://transmissionbt.com/) *(A Fast, Easy and Free Bittorrent Client )*
-+ [**SquirrelDisk**](https://www.squirreldisk.com/) *(This app is used to easily detect huge files.)*
++ [**SquirrelDisk**](https://www.squirreldisk.com/) *(This app is used to easily detect huge files)*
++ [**qView**](https://interversehq.com/qview/) *(Practical and Minimal Image Viewer)*
 
 ### Fun
 + [**JazzUp**](https://www.irradiatedsoftware.com/labs/) *(JazzUp is a simple menu bar app that plays sound fx as you type. Sounds include: Typewriter, Cherry MX™...)*
