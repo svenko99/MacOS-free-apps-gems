@@ -1,7 +1,6 @@
 # 💻 Free app gems & enhancements I use on MacOS.
 
 ### Developer tools
-+ [**Fig**](https://fig.io/ "Fig") *(Fig adds IDE-style autocomplete to your existing terminal)*
 + [ **iTerm2**](https://iterm2.com/ " iTerm2") *(iTerm2 is a replacement for Terminal)*
 + [**Fish**](https://fishshell.com/ "Fish") *(Fish is a smart and user-friendly command line)*
     + [**Oh My Fish**](https://github.com/oh-my-fish/oh-my-fish "Oh My Fish") *(Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell)*
