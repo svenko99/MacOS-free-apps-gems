@@ -9,9 +9,11 @@
 + [**Proxyman**](https://proxyman.io/) *(With Proxyman app, you can capture, inspect, and manipulate HTTP(s) traffic with ease)*
 
 ### Productivity
++ [**Cockpit**](https://github.com/Yvsleyen00941/Cockpit) *(Unified daily productivity heads-up display and menu bar companion for macOS)*
 + [**Cuber**](https://svenko.me/pages/cuber.html) *(Cuber is a mini browser for the menu bar)*
 + [**Flow**](https://flowapp.info/ "**Flow**") *(Flow is a minimalistic pomodoro based focus timer)*
 + [**Dropzone 4**](https://apps.apple.com/us/app/dropzone-4/id1485052491 "**Dropzone**") *(Dropzone makes it faster and easier to copy and move files, open applications and share files with many different services)*
++ [**Rime**](https://github.com/Yvsleyen00941/Rime) *(Distraction-free reading engine with frosted-ice focus backdrop for PDF, EPUB, and Markdown)*
 + [**Vimium**](https://github.com/philc/vimium "**Vimium**") *(Vimium is a browser extension that provides keyboard-based navigation. **I highly recommend it**)*
 + [**How long left**](https://apps.apple.com/us/app/how-long-left/id1388832966?mt=12) *(Count down calendar events in menu bar. I use this for school to see when my class period ends)*
 + [**MacGPT (Menu bar)**](https://www.macgpt.com/) *(Chat with OpenAI's ChatGPT in mac menu bar like a pro)*
@@ -19,6 +21,7 @@
 
 ### Utilities
 + [**Pearcleaner**](https://github.com/alienator88/Pearcleaner) *(An open-source mac app cleaner)*
++ [**Tape**](https://github.com/Yvsleyen00941/Tape) *(Stock ticker in the empty corner beside the Dock)*
 + [**Tiles**](https://freemacsoft.net/tiles/ "Tiles") *(Tiles is a window manager which allows you to easily reorganize windows by dragging them to the edges of the screen)*
 + [**Silicon**](https://github.com/DigiDNA/Silicon "**Silicon**") *(Identify Intel-Only Apps on your Mac with ease)*
 + [**Pandan**](https://apps.apple.com/app/id1569600264 "**Pandan**") *(Time awareness in your menubar)*
