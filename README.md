@@ -18,6 +18,7 @@
 + [**ChatGPT (App)**](https://github.com/lencx/ChatGPT) *(ChatGPT desktop application)*
 
 ### Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing in the corner beside the Dock on macOS.
 + [**Pearcleaner**](https://github.com/alienator88/Pearcleaner) *(An open-source mac app cleaner)*
 + [**Tiles**](https://freemacsoft.net/tiles/ "Tiles") *(Tiles is a window manager which allows you to easily reorganize windows by dragging them to the edges of the screen)*
 + [**Silicon**](https://github.com/DigiDNA/Silicon "**Silicon**") *(Identify Intel-Only Apps on your Mac with ease)*
